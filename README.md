@@ -2,6 +2,8 @@
 [![Black](https://github.com/BattleVerseIo/GameBack/actions/workflows/black.yml/badge.svg)](https://github.com/BattleVerseIo/GameBack/actions/workflows/black.yml)
 [![MyPy](https://github.com/BattleVerseIo/GameBack/actions/workflows/mypy.yml/badge.svg)](https://github.com/BattleVerseIo/GameBack/actions/workflows/mypy.yml)
 [![Bandit](https://github.com/BattleVerseIo/GameBack/actions/workflows/bandit.yml/badge.svg)](https://github.com/BattleVerseIo/GameBack/actions/workflows/bandit.yml)
+[![PyTest](https://github.com/BattleVerseIo/GameBack/actions/workflows/pytest.yml/badge.svg)](https://github.com/BattleVerseIo/GameBack/actions/workflows/pytest.yml)
+
 # BV Game backend
 
 ## Description
